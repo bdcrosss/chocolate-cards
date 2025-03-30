@@ -1,4 +1,4 @@
-// script.js
+
 $(document).ready(function() {
     const chocolates = [
         { name: "Plain Milk", image: "plain_milk.jpg", calories: 110, content: "smooth milk chocolate, ingredients: cocoa butter, milk, sugar" },
